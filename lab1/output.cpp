@@ -29,15 +29,8 @@ int main()
   
   cout<<"The double value with at most two decimals places : "<<fixed<<setprecision(2)<<dvalue<<endl;
   cout<<"The double value with at most twelve  decimals places : "<<fixed<<setprecision(12)<<dvalue<<endl; // try to eliminate zeros at the end of the numbers
-
- 
+  cout<<"\"this is a string\""<<endl;
   
- 
-
-  
-  
- 
-
 }
 
 
