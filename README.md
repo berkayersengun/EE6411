@@ -1,2 +1,2 @@
 # EE6411
-Lab solutions
+Lab exercises
